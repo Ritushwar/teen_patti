@@ -43,7 +43,7 @@ while True:
         if len(pokers)==3:
             possibleRanks = int(teen_patti.findPokerHand(pokers)[0])
             pokers=[]
-            cvzone.putTextRect(img, f'{results_dict[possibleRanks]}',(max(0,10),max(0,20)), scale=2, thickness=1)
+            cvzone.putTextRect(img, f'{results_dict[possibleRanks]}',(max(0,x1-20),max(0,y1-20)), scale=2, thickness=1)
         cv2.imshow("Result",img)
     #img = cv2.resize(img,(frame_width,frame_height))
     #out.write(img)
@@ -56,3 +56,4 @@ while True:
 cap.release()
 # out.release()
 cv2.destroyAllWindows()
+
