@@ -1,10 +1,11 @@
 # TEEN PATTI
-Detect Card And Classify Hands With YOLO
+## Detect Card And Classify Hands With YOLO
 
 ## About TEEN PATTI
 Teen patti is a gambling card game originated in india and popular through south Asia. You can also learn about it and basic rules and ranks through [here.](https://en.wikipedia.org/wiki/Teen_patti)
 
-## Demo image or Video Here
+## Results
+![Demo Video](demo.gif)
 
 
 ## Run Locally
