@@ -7,6 +7,9 @@ Teen patti is a gambling card game originated in india and popular through south
 ## Training
 The YOLOv8 model was trained on google colab using [this dataset.](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3) for 50 epochs.
 
+## Reference
+For reference you can watch this [video](https://youtu.be/WgPbbWmnXJ8?si=tUJXl8BQ1t7MXyro)
+
 ## Results
 ![Demo Video](demo.gif)
 
